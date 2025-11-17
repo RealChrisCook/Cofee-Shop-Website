@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #f6f2ee;
+    color: #333;
+}
+
+header {
+    background: #4a2c2a;
+    color: white;
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+.hero {
+    background: #d7c0ae;
+    text-align: center;
+    padding: 50px 20px;
+}
+
+section {
+    padding: 20px;
+}
+
+footer {
+    background: #4a2c2a;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
